@@ -52,3 +52,4 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/kube-tarian/agile-bridge"
+  dependencies_vendored = true
